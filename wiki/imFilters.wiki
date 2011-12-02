@@ -1,4 +1,4 @@
-#summary description of IMAEL "imFilters" module
+#summary Description module "imFilters"
 
 = Introduction =
 
@@ -27,4 +27,4 @@ The *imFilters* module contains several image filters not necessarily included i
   *  *double2rgb*          - Create a RGB image from double values
   *  *angle2rgb*           - Convert an image of angles to color image
 
-Back to [home]
+Back to [Home home]
