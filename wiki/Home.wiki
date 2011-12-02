@@ -1,0 +1,16 @@
+#summary IMAEL Library wiki
+
+= Introduction =
+
+IMAEL is a set of Matlab functions for Image Processing, Analysis, and Exploration. 
+
+
+= Library organisation=
+
+The library is organised into several modules, more or less independent:
+  * imFilters various image filters
+  * imMeasures to extract quantified information from digital images
+  * imShapes to generate test shapes in 2D or 3D
+  * utils various utilitary
+
+Back to home.
