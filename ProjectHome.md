@@ -1,0 +1,1 @@
+IMAEL is a set of Matlab functions for Image Processing, Analysis, and Exploration. It relies on, and complements, the image processing toolbox from Mathworks.
